@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "React Fundamentals",
+    "category": "Frontend",
+    "progress": 70,
+    "instructor": "Aarav Mehta",
+    "duration": "6 hrs",
+    "description": "Components, props, state and hooks explained with small hands-on exercises."
+  },
+  {
+    "id": 2,
+    "title": "Tailwind CSS in Practice",
+    "category": "Frontend",
+    "progress": 35,
+    "instructor": "Neha Kapoor",
+    "duration": "4 hrs",
+    "description": "Build responsive layouts quickly using utility classes and design tokens."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Essentials",
+    "category": "Frontend",
+    "progress": 100,
+    "instructor": "Rohan Das",
+    "duration": "8 hrs",
+    "description": "Closures, async/await, array methods and the modern ES6+ toolkit."
+  },
+  {
+    "id": 4,
+    "title": "Node.js & Express Basics",
+    "category": "Backend",
+    "progress": 20,
+    "instructor": "Priya Nair",
+    "duration": "7 hrs",
+    "description": "Create REST APIs, handle routes, middleware and errors in Express."
+  },
+  {
+    "id": 5,
+    "title": "SQL for Beginners",
+    "category": "Backend",
+    "progress": 55,
+    "instructor": "Karan Joshi",
+    "duration": "5 hrs",
+    "description": "Write queries, joins and aggregations on real-looking datasets."
+  },
+  {
+    "id": 6,
+    "title": "Git & GitHub Workflow",
+    "category": "Tools",
+    "progress": 90,
+    "instructor": "Isha Verma",
+    "duration": "3 hrs",
+    "description": "Branches, pull requests and resolving merge conflicts confidently."
+  },
+  {
+    "id": 7,
+    "title": "Figma for Developers",
+    "category": "Design",
+    "progress": 10,
+    "instructor": "Meera Shah",
+    "duration": "3 hrs",
+    "description": "Read designs, inspect spacing and export assets without the guesswork."
+  },
+  {
+    "id": 8,
+    "title": "UI/UX Principles",
+    "category": "Design",
+    "progress": 0,
+    "instructor": "Dev Malhotra",
+    "duration": "4 hrs",
+    "description": "Hierarchy, contrast, spacing and usability basics for clean interfaces."
+  },
+  {
+    "id": 9,
+    "title": "Communication at Work",
+    "category": "Soft Skills",
+    "progress": 60,
+    "instructor": "Anita Roy",
+    "duration": "2 hrs",
+    "description": "Write clear updates, ask better questions and give useful feedback."
+  }
+]

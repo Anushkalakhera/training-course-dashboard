@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* Our colour palette + fonts. Use them as bg-pine, text-ink, font-display etc. */
+@theme {
+  --color-cream: #fbf6ee;
+  --color-ink: #1e2a32;
+  --color-pine: #0f5c5c;
+  --color-pine-dark: #0a4141;
+  --color-sage: #dde8e0;
+  --color-sun: #f2a541;
+  --color-coral: #e4572e;
+  --font-display: "Fraunces", serif;
+  --font-body: "DM Sans", sans-serif;
+  --animate-slide-in: slide-in 0.3s ease-out;
+
+  @keyframes slide-in {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+  }
+}
+
+body {
+  @apply bg-cream text-ink font-body;
+}
